@@ -12,19 +12,24 @@ body {
   border-radius: 8px;
 }
 
-.container h1 {
-  text-align: center;
+.table {
+  display: grid;
+  justify-content: center;
 }
 
 .texto {
   text-align: right;
 }
 
-.container td {
+h1 {
+  text-align: center;
+}
+
+td {
   font-size: 1.2rem;
 }
 
-.container input {
+input {
   text-transform: uppercase;
   font-size: 1.125rem;
 }

@@ -12,6 +12,10 @@ body {
   border-radius: 8px;
 }
 
+.left {
+  text-align: left;
+}
+
 .table {
   display: grid;
   justify-content: center;
@@ -29,5 +33,9 @@ td {
 
 input {
   text-transform: uppercase;
+  font-size: 1.125rem;
+}
+
+select {
   font-size: 1.125rem;
 }

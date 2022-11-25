@@ -8,8 +8,8 @@
 </head>
 
 <body>
+    <h1>Sistema Escolar</h1>
     <div class="container">
-        <h1>Sistema Escolar</h1>
         <form method="post">
             <table class="table">
                 <tr>
@@ -20,8 +20,6 @@
                     <td class="texto">Senha: </td>
                     <td><input class="form-control" type="password" name="senha"></td>
                 </tr>
-            </table>
-            <table class="botoes">
                 <tr>
                     <td><input type="submit" name="logar" value='Login'></td>
                 </tr>
